@@ -1,0 +1,11 @@
+README.md
+setup.py
+aiohttpdemo_chat/__init__.py
+aiohttpdemo_chat/main.py
+aiohttpdemo_chat/views.py
+aiohttpdemo_chat.egg-info/PKG-INFO
+aiohttpdemo_chat.egg-info/SOURCES.txt
+aiohttpdemo_chat.egg-info/dependency_links.txt
+aiohttpdemo_chat.egg-info/not-zip-safe
+aiohttpdemo_chat.egg-info/requires.txt
+aiohttpdemo_chat.egg-info/top_level.txt
